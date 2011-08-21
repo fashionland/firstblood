@@ -2,17 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
   <head> 
 
-		<title></title>
+		<title>AFL</title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
     <link rel="icon" type="image/png" size="129x129" href="./icon.png" />    
+
     <link rel="stylesheet" type="text/css" href="./style.css" /> 		
+
+    <script type="text/javascript" src="./js/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="./js/jquery.json-2.2.min.js"></script>
+    <script type="text/javascript" src="./js/rexster.js"></script>
 
 	</head>
 	<body>
 	
 	<h1><?php echo "Hello Dev!"; ?></h1>
 	
+  <input type="text" id="query" /><button>Search</button>
+  <div id="results"></div>
 	
 	
 	
