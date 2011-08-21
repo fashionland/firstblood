@@ -9,17 +9,10 @@
 
     <link rel="stylesheet" type="text/css" href="./style.css" /> 		
 
-    <script type="text/javascript" src="./js/jquery-1.6.2.min.js"></script>
-    <script type="text/javascript" src="./js/jquery.json-2.2.min.js"></script>
-    <script type="text/javascript" src="./js/rexster.js"></script>
-
 	</head>
 	<body>
 	
-	<h1><?php echo "Hello Dev!"; ?></h1>
-	
-  <input type="text" id="query" /><button>Search</button>
-  <div id="results"></div>
+	<h1><?php echo "Hello World!"; ?></h1>
 	
 	
 	
