@@ -8,20 +8,10 @@
     <link rel="icon" type="image/png" size="129x129" href="./icon.png" />    
     <link rel="stylesheet" type="text/css" href="./style.css" /> 		
 
-    <style type="text/css">
-
-      BODY {
-      
-      }
-    
-
-    </style>
-
 	</head>
 	<body>
 	
 	<h1><?php echo "Hello World!"; ?></h1>
-	Developing!
 	
 	
     <!-- google -->
